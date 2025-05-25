@@ -1,28 +1,28 @@
 # Hi there 👋, welcome to my GitHub profile!
 
-I am a data professional with over 7 years of experience across public health, renewable energy, WASH, climate action, and clinical trials. Currently, I work full-time in the clinical trials industry.
+I am a data professional with over 3 years of experience across public health, social media, marketing, living wage and labour field . Currently, I work full-time in the HAPRI (Health and Agricultural Policy Research Institute).
 
 ## Skills 🛠️
 
 | **Data Management 🗃️** | **ETL Tools ⚙️** | **Data Analysis 💻** | **Data Visualization 📊** |
 |------------------------|------------------|-----------------------|----------------------------|
-| 1. Medrio              | 1. SQL           | 1. R                  | 1. R/Shiny                 |
-| 2. Medidata Rave       | 2. elluminate    | 2. Stata              | 2. Excel                   |
-| 3. ODK                 | 3. R             | 3. Python             | 3. PowerBI                 |
-| 4. KoboToolbox         | 4. Python        | 4. SAS                | 4. Tableau                 |
-| 5. CommCare            | 5. Veeva CDB     | 5. Excel              | 5. Qliksense               |
-| 6. SurveyCTO           |                  |                       |                            |
-| 7. Survey Solutions    |                  |                       |                            |
+|                        | 1. SQL           | 1. R                  | 1. R                       |
+|                        | 3. R             | 2. Stata              | 2. Excel                   |
+|                        | 4. Python        | 3. Python             | 3. PowerBI                 |
+|                        |                  | 4. SPS                | 4. Tableau                 |
+|                        |                  | 5. Excel              | 5. Canvas                  |
+|                        |                  |                       | 6. IBM Cognos              |
+|                        |                  |                       |                            |
 
 ## Education 🎓
 
-- BSc. Applied Statistics with Computing
+- BSc. investment economics
 
 ---
 
 ### Hands-On 💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/corneliustanui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/truongnhung2002/)
 
 ---
 
