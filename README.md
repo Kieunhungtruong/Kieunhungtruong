@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, welcome to my GitHub profile!
 
-<!--
-**Kieunhungtruong/Kieunhungtruong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data professional with over 7 years of experience across public health, renewable energy, WASH, climate action, and clinical trials. Currently, I work full-time in the clinical trials industry.
 
-Here are some ideas to get you started:
+## Skills 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| **Data Management 🗃️** | **ETL Tools ⚙️** | **Data Analysis 💻** | **Data Visualization 📊** |
+|------------------------|------------------|-----------------------|----------------------------|
+| 1. Medrio              | 1. SQL           | 1. R                  | 1. R/Shiny                 |
+| 2. Medidata Rave       | 2. elluminate    | 2. Stata              | 2. Excel                   |
+| 3. ODK                 | 3. R             | 3. Python             | 3. PowerBI                 |
+| 4. KoboToolbox         | 4. Python        | 4. SAS                | 4. Tableau                 |
+| 5. CommCare            | 5. Veeva CDB     | 5. Excel              | 5. Qliksense               |
+| 6. SurveyCTO           |                  |                       |                            |
+| 7. Survey Solutions    |                  |                       |                            |
+
+## Education 🎓
+
+- BSc. Applied Statistics with Computing
+
+---
+
+### Hands-On 💻
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/corneliustanui)
+
+---
+
+### My Stats 📊
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=corneliustanui&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corneliustanui&layout=compact)
