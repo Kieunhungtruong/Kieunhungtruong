@@ -9,7 +9,7 @@ I am a data professional with over 3 years of experience across public health, s
 |                        | 1. SQL           | 1. R                  | 1. R                       |
 |                        | 3. R             | 2. Stata              | 2. Excel                   |
 |                        | 4. Python        | 3. Python             | 3. PowerBI                 |
-|                        |                  | 4. SPS                | 4. Tableau                 |
+|                        |                  | 4. SPSS                | 4. Tableau                 |
 |                        |                  | 5. Excel              | 5. Canvas                  |
 |                        |                  |                       | 6. IBM Cognos              |
 |                        |                  |                       |                            |
